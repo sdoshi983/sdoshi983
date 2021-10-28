@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Doshi</h1>
-<h3 align="center">A game and flutter developer and enthusiastic to be a part of real world projects!</h3>
+<h3 align="center">A competitive programmer and software developer and enthusiastic to be a part of real world projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdoshi983&label=Profile%20views&color=0e75b6&style=flat" alt="sdoshi983" /> </p>
 
